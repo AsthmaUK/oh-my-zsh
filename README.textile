@@ -1,3 +1,5 @@
+This is a fork of robbyrussell/oh-my-zsh with my own theme added. The instructions below refer to that.
+
 A handful of functions, auto-complete helpers, and stuff that makes you shout...
 
 
